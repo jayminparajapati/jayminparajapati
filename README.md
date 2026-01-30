@@ -121,46 +121,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jaiminkatakiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiminkatakiya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiminkatakiya&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=jaiminkatakiya&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaiminkatakiya&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaiminkatakiya&repo=your-awesome-project&theme=tokyonight&hide_border=true)](https://github.com/jaiminkatakiya/your-awesome-project)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaiminkatakiya&repo=another-cool-project&theme=tokyonight&hide_border=true)](https://github.com/jaiminkatakiya/another-cool-project)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiminkatakiya&custom_title=Jaimin's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
 
 ## 💼 What I'm Currently Working On
 
@@ -210,48 +170,4 @@ graph LR
 </div>
 
 ---
-
-## 🎵 Coding Playlist
-
-<div align="center">
-
-[![Spotify](https://novatorem-jaiminkatakiya.vercel.app/api/spotify)](https://open.spotify.com/user/youruserid)
-
-</div>
-
----
-
-## ☕ Support My Work
-
-<div align="center">
-
-If you like my projects, consider buying me a coffee! ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jaiminkatakiya)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jaiminkatakiya)
-
-</div>
-
----
-
-<div align="center">
-  
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-</div>
-
----
-
-<div align="center">
-  
-### "Talk is cheap. Show me the code." - Linus Torvalds
-
-![Snake animation](https://github.com/jaiminkatakiya/jaiminkatakiya/blob/output/github-contribution-grid-snake.svg)
-
-⭐️ From [jaiminkatakiya](https://github.com/jaiminkatakiya)
-
-</div>
 
