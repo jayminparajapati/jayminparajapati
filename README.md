@@ -23,13 +23,6 @@
 - 💬 Ask me about **Web Apps, UI/UX, or Python**
 - 📫 How to reach me: **[jaiminkatakiya7600@gmail.com]**
 
-### 🛠 Tech Stack:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,py,git,vscode" />
-</p>
-
-
-</div>
 
 ## ⚡ Quick Look
 - 🔭 **Current Focus:** Building scalable web applications.
@@ -56,38 +49,6 @@
 </p>
 
 ---
-
-## 🎯 About Me
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Jaimin Katakiya"
-        self.role = "Full Stack Developer"
-        self.location = "India 🇮🇳"
-        self.current_focus = "Building scalable web applications"
-        self.philosophy = "Code is like humor. When you have to explain it, it's bad."
-        
-    def get_current_stack(self):
-        return {
-            "frontend": ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-            "backend": ["Node.js", "Python", "Django", "Express.js"],
-            "database": ["PostgreSQL", "MongoDB", "Redis"],
-            "tools": ["Git", "Docker", "AWS", "Vercel"],
-            "currently_learning": ["Go", "Kubernetes", "System Design"]
-        }
-    
-    def get_goals(self):
-        return [
-            "🚀 Contribute to impactful open-source projects",
-            "📚 Master system design and architecture",
-            "🌍 Build products that solve real-world problems",
-            "🤝 Collaborate with amazing developers worldwide"
-        ]
-
-me = Developer()
-print(me.get_current_stack())
-```
 
 <details>
 <summary>📊 More About My Coding Journey</summary>
